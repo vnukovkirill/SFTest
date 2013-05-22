@@ -5,5 +5,6 @@ public with sharing class First {
 		Double dvar = 1.0;
 		Double dvar2 = 1.0;
 		Double dvar3 = 1.0;
+		Double dvar4 = 1.0;
 	}
 }
